@@ -1,0 +1,2 @@
+-record(loginrequest, {login, password}).
+-record(loginresponse, {result, msg}).
